@@ -5,7 +5,8 @@
 
 
 # Design Link
-[Invictus Design](https://www.figma.com/file/cG7gFXQgsZyulCLkSB0sWs/Invictus-Website?type=design&node-id=0-1&mode=design)
+[Invictus Website_compressed.pdf](https://github.com/user-attachments/files/16661243/Invictus.Website_compressed.pdf)
+
 
 
 Head towards your git repository and create a pull request. Make sure that you are in the right branch.
