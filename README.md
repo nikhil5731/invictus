@@ -1,15 +1,13 @@
 # Invictus 2024
 
-# Admin 
-![image](https://github.com/Invictus-DTU/Invictus24/assets/127961367/d639cbb8-af74-4851-99ab-55cc147d4031)
-
-
 # Design Link
 ![Invictus](https://github.com/user-attachments/assets/6d5915fe-a44a-49c7-b3c3-033def187bf8)
 
+# Admin 
+![image](https://github.com/Invictus-DTU/Invictus24/assets/127961367/d639cbb8-af74-4851-99ab-55cc147d4031)
+
 # Utiliy Components
 ![Utility Components](https://github.com/user-attachments/assets/1d2363ea-8249-4547-b5be-d43c9ceee184)
-
 
 Head towards your git repository and create a pull request. Make sure that you are in the right branch.
 
