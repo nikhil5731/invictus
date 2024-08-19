@@ -5,8 +5,10 @@
 
 
 # Design Link
-[Invictus Website_compressed.pdf](https://github.com/user-attachments/files/16661243/Invictus.Website_compressed.pdf)
+![Invictus](https://github.com/user-attachments/assets/6d5915fe-a44a-49c7-b3c3-033def187bf8)
 
+# Utiliy Components
+![Utility Components](https://github.com/user-attachments/assets/1d2363ea-8249-4547-b5be-d43c9ceee184)
 
 
 Head towards your git repository and create a pull request. Make sure that you are in the right branch.
